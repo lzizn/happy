@@ -14,7 +14,7 @@
 
 ## 💻 Getting Started
 
-<em>First of all, create a paste, because you'll need to clone two repositories (front-end and back-end)<em/>
+<em>First of all, create a paste, because you'll need to clone two repositories (front-end and back-end)</em>
 <br/>
 **Once you are in the paste, clone and run the front-end with**
 ```bash
@@ -24,16 +24,16 @@ $ yarn start
 ```
 That will run the app in the development mode.<br />
 
-**Then you'll have to clone the [back-end](https://github.com/laianbraum/Happy-backend)**
+**Then you'll have to clone and run the [back-end](https://github.com/laianbraum/Happy-backend) as well**
 ```bash
 $ git clone https://github.com/laianbraum/Happy-backend.git
 $ cd Happy-backend
 $ yarn dev
 ```
 
-Will run the back-end and everything will be all set.<br />
+We're all set!<br />
 Open [http://localhost:3000](http://localhost:3000) to view the application in the browser.
-
+<br/>
 ## More
   <img src="https://user-images.githubusercontent.com/61033391/96379643-c6d2b980-1165-11eb-9589-d08cc5431f61.png"></img><br/><br/><br/>
   <img src="https://user-images.githubusercontent.com/61033391/96380285-f41f6780-1165-11eb-92e3-9dd13e3ea4ab.png"></img>
