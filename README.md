@@ -1,5 +1,5 @@
 # Happy
-#### Happy is an application that connects people with near orphanages. It was developed in Next Level Week #3, an event of development made by [Rocketseat](https://rocketseat.com.br/).
+#### Happy is an application that connects people with near orphanages.
 
 <img src="https://user-images.githubusercontent.com/61033391/96380004-e10c9780-1165-11eb-8136-615b20b7bb80.png"></img>
 
